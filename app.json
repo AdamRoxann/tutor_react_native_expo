@@ -1,0 +1,12 @@
+{
+  "name": "TutorReact",
+  "displayName": "TutorReact",
+  "expo": {
+    "name": "TutorReact",
+    "slug": "TutorReact",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
